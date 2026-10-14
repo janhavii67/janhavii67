@@ -17,9 +17,11 @@
   </a>
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+with+Python%2C+Java+%26+JavaScript;Exploring+Docker+%26+Kubernetes;Learning+and+Building+Every+Day" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=93B4E8&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+with+Python%2C+Java+%26+JavaScript;Exploring+Docker+%26+Kubernetes;Learning+and+Building+Every+Day" alt="Typing Animation" />
 </p>
+
 
 ---
 
