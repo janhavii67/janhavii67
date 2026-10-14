@@ -1,6 +1,8 @@
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020611,50:071A3A,100:164B9A&height=220&section=header&text=Janhavi%20Suryawanshi&fontSize=43&fontColor=EAF2FF&animation=fadeIn&fontAlignY=35&desc=IT%20Engineering%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20DevOps&descSize=18&descAlignY=55&descColor=8AB4F8" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:030712,100:0A1A33&height=220&section=header&text=Janhavi%20Suryawanshi&fontSize=43&fontColor=F1F5F9&animation=fadeIn&fontAlignY=35&desc=IT%20Engineering%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20DevOps&descSize=18&descAlignY=55&descColor=93B4E8" />
+
 
 
 <p align="center">
@@ -91,5 +93,6 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164B9A,50:071A3A,100:020611&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A33,50:030712,100:000000&height=120&section=footer" />
+
 
